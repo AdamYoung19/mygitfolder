@@ -1,5 +1,8 @@
 def student1Function():
-  pass
+  Hi = "Hello"
+  for i in Hi:
+    print(f"{i}")
+  print(Hi.upper())
 
 def student2Function():
   pass
